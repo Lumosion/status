@@ -18,7 +18,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
+      text: '主站',
       url: 'https://lumosion.me'
     },
     {
@@ -26,7 +26,7 @@ window.Config = {
       url: 'https://github.com/Lumosion'
     },
     {
-      text: 'Blog',
+      text: '博客',
       url: 'https://blog.lumosion.me'
     },
   ],
